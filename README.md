@@ -3,6 +3,8 @@ Hi, I'm @ DAVIDLED666
 - 🌱 I am currently learning HTML, CSS, JS, REACT, VUE, ANGULAR
 - 💞️ I'm looking to collaborate on CODING
 - 📫 How to reach me by e-mail asmodeus2007@hotmail.com
+- Git em construção
+- 
 
 
 
