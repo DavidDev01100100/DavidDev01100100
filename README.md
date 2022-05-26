@@ -32,6 +32,6 @@ Hi, I'm @ DAVIDLED666
      <a href="asmodeus2007@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   	 <a href="+5521969208584" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
      
-     ![Snake animation](https://github.com/DAVIDLED666/DAVIDLED666/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
        
  </div>
