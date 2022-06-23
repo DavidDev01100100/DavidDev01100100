@@ -30,6 +30,6 @@ Hi, I'm @ DavidDev01100100
     <a href="https://www.instagram.com/david.alves.2004/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   	<a href="https://web.facebook.com/david.alves.39750/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     
-      ![Snake animation](https://github.com/DavidDev01100100/DavidDev01100100/blob/output/github-contribution-grid-snake.svg)
+   
 
 </div> 
