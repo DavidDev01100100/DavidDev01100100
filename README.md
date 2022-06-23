@@ -3,7 +3,7 @@ Hi, I'm @ DavidDev01100100
 - 🌱 I am currently learning HTML, CSS, JS, REACT, VUE, ANGULAR
 - 💞️ I'm looking to collaborate on CODING
 - 📫 How to reach me by e-mail asmodeus2007@hotmail.com
-- Git em construção
+- Git em construção/reformulação
 - 
 
 
