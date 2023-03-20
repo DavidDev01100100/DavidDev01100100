@@ -26,7 +26,7 @@ Hi, I'm @ DavidDev01100100
   ##
   
 <div>
-    <a href=" david-alves-2833b37a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/david-alves-2833b37a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="https://www.instagram.com/david.alves.2004/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   	<a href="https://web.facebook.com/david.alves.39750/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     
