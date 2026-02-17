@@ -1,4 +1,4 @@
-Hi, I'm @ DavidDev01100100
+Hi, I'm @ David Alves
 - 👀 I'm interested in PROGRAMMING
 - 🌱 I am currently learning HTML, CSS, JS, REACT, VUE, ANGULAR
 - 💞️ I'm looking to collaborate on CODING
